@@ -6,6 +6,7 @@ class GitTest {
         System.out.println("git test4");
         System.out.println("hot-fix test!");
         System.out.println("fuck you hot-fix");
+        System.out.println("this is github change");
 
     }
 }
