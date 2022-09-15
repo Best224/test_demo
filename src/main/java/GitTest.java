@@ -7,7 +7,7 @@ class GitTest {
         System.out.println("hot-fix test!");
         System.out.println("fuck you hot-fix");
         System.out.println("this is github change");
-        System.out.println("this is IDEA change");
+        System.out.println("pull conflicts test");
 
     }
 }
